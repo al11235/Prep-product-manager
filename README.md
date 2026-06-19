@@ -1,60 +1,12 @@
-# Product Data Scientist Prep
+# Product Data Scientist Interview Prep — L5 FAANG
 
-AI-powered interview prep for Product Data Scientist roles at FAANG companies (Meta, Google, Amazon, Netflix, Apple).
-
-Built to work with **any AI IDE** — Kiro, Antigravity, Cursor, or any LLM with file access.
-
----
-
-## What's Inside
-
-| Folder | What |
-|--------|------|
-| `plan/` | structured plan, podcast prompts (14 episodes), fun study methods |
-| `frameworks/` | Reusable frameworks: experiment design, metric diagnosis, STAR, AARRR |
-| `questions/` | 150+ practice questions across 7 categories |
-| `notes/` | Interview research, company-specific intel, per-user learning logs |
-| `resources/` | Reading list, YouTube channels, book recommendations |
-
-## Question Categories
-
-- **Statistics & Probability** — hypothesis testing, Bayes, distributions (30 questions)
-- **Experimentation / A/B Testing** — design, power, pitfalls, causal inference (30 questions)
-- **Product Sense & Metrics** — metric definition, diagnosis, trade-offs (28 questions)
-- **Python Coding** — pandas, statistical analysis, experiment analysis (24 questions)
-- **Behavioral** — STAR format, Amazon LPs (16 questions)
-- **AI/ML Product Thinking** — AI-first design, failure modes (22 questions)
-- **Estimation** — Fermi problems, market sizing (10 questions)
-
----
-
-## Quick Start
-
-### Using Kiro (AWS AI IDE)
-1. Open this folder in Kiro
-2. The steering files (`.kiro/steering/`) auto-load — just say "let's practice"
-3. Your learning log updates automatically via hooks
-
-### Using Antigravity (Google) or any other AI IDE
-1. Clone this repo and open in your IDE
-2. Copy the onboarding prompt from `ONBOARDING-PROMPT.md` into your first chat
-3. The AI will set itself up, ask your name, create your learning log, and start coaching
-4. After first time: just say "let's practice"
-
-### Using ChatGPT / Claude / Gemini (no file access)
-1. Copy the system prompt from `SYSTEM-PROMPT-FOR-OTHER-LLMS.md`
-2. Paste at the start of each session
-3. Reference question files manually
-
----
-
-## Multi-User Support
-
-Multiple people can share this repo. Each person gets their own learning log:
-
-
-
-
+## Profile
+- Current role: BIE at Amazon
+- Target: L5 Product Data Scientist (Meta, Google, Amazon, Netflix, Apple)
+- Timeline: ~3 months
+- Strengths: SQL, data pipelines, dashboards, Weblab/experimentation
+- Growth areas: Statistics depth, causal inference, Python for DS, product sense framing
+- Key resource: "Trustworthy Online Controlled Experiments" (Kohavi, Tang, Xu)
 
 ## Repo Structure
 
